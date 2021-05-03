@@ -1,0 +1,22 @@
+
+123	physics	Sharma	1	1    	modernPhysics	
+154	maths	tandon	0	1    	calculus	
+456	biology	raghu	1	1    	genetics	
+768	programming	micheal	1	1    	python	
+865	electronics	kulshreshta	1	1    	phasors	
+567	electronics	william	1	1    	circuits	
+363	mechanics	prashanth	1	1    	trusses	
+576	civil	ramaiah	0	1    	constructions	
+123	calculus	mc.hill	1	1    	integration	
+580	coding	john	1	1    	c++	
+370	sciences	raghu	1	1    	moulding	
+789	comics	akash	1	1    	comic	
+677	machinelearning	chandan	1	0    	
+990	caeg	jyotsna	1	1    	graphics	
+567	maths2	ram	1	1    	differentiation	
+24567	PSWC_1	Nithin	1	1    	unit	
+4567	PSWC_2	Nithin	1	1    	unit2	
+75684	Mech	Ramana	1	1    	science	
+154998	PSWC_3	nithin	0	1    	unit3	
+123489	PSWC_4	Nithin	0	1	unit4	
+789423	PSWC_5	Nithin	1	1    	unit5	
